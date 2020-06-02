@@ -3,7 +3,7 @@ dependencies:
     - go:1.12.1
 
 build_targets:
-  - name: default
+  - name: default1
     commands:
       - go get
       - go build
