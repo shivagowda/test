@@ -7,7 +7,7 @@ build_targets:
     commands:
       - go get
       - go build
-      - go test ./...
+      - ./test
 
 ci:
   builds:
