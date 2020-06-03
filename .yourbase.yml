@@ -11,5 +11,5 @@ build_targets:
 
 ci:
   builds:
-    - name: default
+    - name: default1
       build_target: default
