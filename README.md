@@ -1,2 +1,2 @@
 # test
-trigger build
+trigger build2
